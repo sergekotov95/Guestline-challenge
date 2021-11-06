@@ -1,0 +1,42 @@
+.section-header { 
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px 10px 7px 10px;
+}
+
+.img-slider{
+    width:300px;
+}
+
+.img-slider img {
+    height: 300px;
+}
+
+.info-block {
+    margin-left: 15px;
+    flex-grow: 1;
+}
+
+.section { 
+    max-width: 800px;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+.overview { 
+    flex-direction: column;
+    width: 20%;
+}
+
+.description {
+    width: 80%;
+}
+
+.room {
+    border-top: 2px solid black;
+}
+
+.room div {
+    padding: 5px 10px;
+}
+

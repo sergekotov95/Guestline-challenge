@@ -1,0 +1,16 @@
+.overview { 
+    flex-direction: column;
+    width: 20%;
+}
+
+.description {
+    width: 80%;
+}
+
+.room {
+    border-top: 2px solid black;
+}
+
+.room div {
+    padding: 5px 10px;
+}
