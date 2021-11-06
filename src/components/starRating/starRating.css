@@ -1,0 +1,7 @@
+.stars-filter {
+  align-items: flex-start;
+}
+
+.clickable:hover {
+  cursor: pointer;
+}
