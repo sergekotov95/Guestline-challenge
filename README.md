@@ -18,3 +18,9 @@ Created slider with hotels' photos using React Slick library.
 Using this app you can see a list of hotels with their photos, description, and rooms. 
 
 Added functionality to filter hotels and their rooms accordingly to hotels' star rating and rooms' adults and children occupancy. 
+
+## Bilding App
+To build the application you should run: 
+1. download the source code or clone a repo
+2. npm i
+3. npm start 
